@@ -16,13 +16,13 @@ import com.swapi.sw.StarWarsApi;
 /**
  * Servlet implementation class TestServlet
  */
-public class TestServlet extends HttpServlet {
+public class SearchServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
     /**
      * Default constructor. 
      */
-    public TestServlet() {
+    public SearchServlet() {
         // TODO Auto-generated constructor stub
     }
 
